@@ -1,5 +1,5 @@
 ARG PHP_SRC="https://github.com/php/php-src.git"
-ARG PHP_RELEASE="php-8.1.7"
+ARG PHP_RELEASE="php-8.0.20"
 
 #################
 # BUILD LIB-ZIP #
